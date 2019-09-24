@@ -1,4 +1,4 @@
-# Revercrossing-Jealous husband (STRIPS)
+# Revercrossing-Jealous husbands (STRIPS)
 
 ## Domain Description
 
