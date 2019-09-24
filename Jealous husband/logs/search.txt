@@ -1,0 +1,62 @@
+Simplifying transitions... done!
+Initializing HSP/FF heuristic...
+Reading invariants from file...
+done
+Generating landmarks using the RPG/SAS+ approach
+approx. reasonable orders
+approx. obedient reasonable orders
+Removed 0 reasonable or obedient reasonable orders
+Generated 22 landmarks, of which 1 are disjunctive
+          46 edges
+8 initial landmarks, 6 goal landmarks
+Landmarks generation time: 0.04 seconds
+Search iteration 1
+Using the following heuristic(s):
+FF heuristic with preferred operators
+Landmark heuristic with preferred operators
+Initializing HSP/FF heuristic...
+Initializing landmarks count heuristic...
+Conducting best first search.
+Best heuristic value: 14/13 [expanded 1 state(s)]
+Best heuristic value: 12/12 [expanded 2 state(s)]
+Best heuristic value: 11/12 [expanded 3 state(s)]
+Best heuristic value: 11/11 [expanded 6 state(s)]
+Best heuristic value: 11/10 [expanded 7 state(s)]
+Best heuristic value: 11/9 [expanded 17 state(s)]
+Best heuristic value: 11/8 [expanded 20 state(s)]
+Best heuristic value: 11/7 [expanded 25 state(s)]
+Best heuristic value: 11/6 [expanded 28 state(s)]
+Best heuristic value: 11/5 [expanded 35 state(s)]
+Best heuristic value: 11/4 [expanded 52 state(s)]
+Best heuristic value: 11/3 [expanded 58 state(s)]
+Best heuristic value: 2/2 [expanded 60 state(s)]
+Best heuristic value: 1/1 [expanded 61 state(s)]
+Solution found!
+embark_wife boat0 from w0 n3 n2 n0 n1 n2
+embark_wife boat0 from w1 n2 n1 n1 n2 n2
+cross_by_1coupling boat0 from to w2 h2 n1 n0
+disembark_wife boat0 to w0 n0 n1 n2 n1
+cross_by_0husband boat0 to from n0 n0
+embark_wife boat0 from w2 n1 n0 n1 n2 n2
+cross_by_0wife boat0 from to n0 n0
+disembark_wife boat0 to w1 n1 n2 n2 n1
+cross_by_0husband boat0 to from n0 n0
+embark_husband boat0 from h2 n3 n2 n1 n2 n2
+cross_by_0wife boat0 from to n0 n0
+disembark_wife boat0 to w2 n2 n3 n2 n1
+cross_by_0husband boat0 to from n0 n0
+embark_husband boat0 from h1 n2 n1 n1 n2 n2
+cross_by_0wife boat0 from to n0 n0
+disembark_husband boat0 to h2 n0 n1 n2 n1
+disembark_husband boat0 to h1 n1 n2 n1 n0
+embark_wife boat0 to w0 n3 n2 n0 n1 n2
+cross_by_2coupling boat0 to from w2 w1 h2 h1 n2 n0
+embark_husband boat0 from h0 n1 n0 n1 n2 n2
+cross_by_0wife boat0 from to n0 n0
+disembark_husband boat0 to h0 n2 n3 n2 n1
+disembark_wife boat0 to w0 n2 n3 n1 n0
+Plan length: 23 step(s).
+Expanded 62 state(s).
+Generated 251 state(s).
+Search time: 0.02 seconds
+Total time: 0.06 seconds
