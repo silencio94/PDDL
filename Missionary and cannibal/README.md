@@ -2,7 +2,7 @@
 
 ## Domain Description
 
-This domain was devised in order to solve well-known Problem Missionaries and Cannibals.
+This domain was devised in order to solve well-known Problem Missionaries and Cannibals.</br>
 There is a variation of problem that one of cannibals is one-armed.
 
 ## Author
