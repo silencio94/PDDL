@@ -1,13 +1,16 @@
 # PDDL
 > Planning Domain Definition Language
 ## Overview
-This repository contains domain and instances PDDL files.
+This repository contains domain and instance PDDL files.
 
 ## Domain
+|name|description|
+|------|---|
+|Jealous husband|https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem|
+|Missionary and cannibal|https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem|
 
+For each domain, there is only one problem instance file.
 
-For each IPC domain, there is a top-level readme containing an informal description of the domain.
-
-Problem instances reside in the instances subdirectory and are of the form instance-x.pddl, where x ≥ 1 (without leading zeros).
-
-With most domains, there is only one domain description for all instances, domain.pddl. In some cases, a proper domain is provided for each instance, in which case the domain descriptions are stored in a domains subdirectory.
+## Test environment
+OS: Ubuntu 18.04.1 LTS
+PLANNER: LAMA
