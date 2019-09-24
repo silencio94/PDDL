@@ -7,7 +7,7 @@ This repository contains domain and instance PDDL files.
 |name|description|
 |------|---|
 |Missionary and cannibal|https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem|
-|Jealous husband|https://en.wikipedia.org/wiki/Missionaries_and_cannibals_problem|
+|Jealous husbands|http://www.math.toronto.edu/barbeau/puzzles.pdf|
 
 For each domain, there is only one problem instance file.
 
