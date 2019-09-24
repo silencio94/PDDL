@@ -1,4 +1,4 @@
-# Revercrossing-MC (STRIPS)
+# Revercrossing-Missionary and cannibal (STRIPS)
 
 ## Domain Description
 
@@ -7,7 +7,7 @@ There is a variation of problem that one of cannibals is one-armed.
 
 ## Author
 
-201414185 Dong-Chan Kang
+silencio94
 
 ## File Names
 
