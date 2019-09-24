@@ -1,7 +1,13 @@
-# What is PDDL(Planning Domain Definition Language)?
-It is Artificial Intelligence (AI) planning languages.</br>
-There're PDDL versions and variants.</br>
+# PDDL
+> Planning Domain Definition Language
+## Overview
+This repository contains domain and instances PDDL files.
 
-If you want more info read this: https://en.wikipedia.org/wiki/Planning_Domain_Definition_Language
+## Domain
 
 
+For each IPC domain, there is a top-level readme containing an informal description of the domain.
+
+Problem instances reside in the instances subdirectory and are of the form instance-x.pddl, where x ≥ 1 (without leading zeros).
+
+With most domains, there is only one domain description for all instances, domain.pddl. In some cases, a proper domain is provided for each instance, in which case the domain descriptions are stored in a domains subdirectory.
