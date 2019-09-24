@@ -1,12 +1,11 @@
-# Revercrossing-JH (STRIPS)
+# Revercrossing-Jealous husband (STRIPS)
 
 ## Domain Description
 
 This domain was devised in order to solve well-known Problem Jealous Husband, which is similar to Missionaries and Cannibals Problem.
 
 ## Author
-
-201414185 Dong-Chan Kang
+silencio94
 
 ## File Names
 
