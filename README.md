@@ -12,7 +12,7 @@ This repository contains domain and instance PDDL files.
 For each domain, there is only one problem instance file.
 
 ## Comment
-You can see more domain and instance [here](https://github.com/potassco/pddl-instances)
+You can see more domain and instance pddl file [here](https://github.com/potassco/pddl-instances)
 
 ## Test environment
 OS: Ubuntu 18.04.1 LTS</br>
